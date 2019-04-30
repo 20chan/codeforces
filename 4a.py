@@ -1,0 +1,1 @@
+print(["NO","YES"][int(input()) in range(4,101,2)])

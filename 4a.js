@@ -1,0 +1,1 @@
+print((parseInt(readline())-3)%2===1?"YES":"NO")
